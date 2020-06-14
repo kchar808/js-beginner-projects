@@ -5,4 +5,4 @@ Refreshed my memory of Math.random(), which returns a number between 0 and 1. An
 https://kchar808.github.io/js-beginner-projects/js-bg-color-change/
 
 **2. Hex Change Background Color**<br>
-Thought I could use Math.random() * 10 to generate a number from 0 - 9 for the hex code, but quickly learned that wouldn't work out. The solution was much more simpler than I thought.  
+Thought I could use Math.random() * 10 to generate a number from 0 - 9 for the hex code, but quickly learned that wouldn't work out. The solution was much more simpler than I thought. https://kchar808.github.io/js-beginner-projects/hex-bg-color/
