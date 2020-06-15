@@ -1,0 +1,12 @@
+html {
+  background-color: gray;
+}
+
+div {
+  text-align: center;
+  margin-top: 50vh;
+}
+
+div p {
+  font-size: 1.5em;
+}
