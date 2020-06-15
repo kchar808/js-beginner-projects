@@ -1,18 +1,25 @@
-html {
-  background-color: gray;
-  max-height: 100vh;
+html body{
+  background-color: rgb(135, 79, 79); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 div {
   text-align: center;
+  margin: 0 auto;
+}
+
+img {
+  width: 50%;
+  height: 50%;
 }
 
 .quote-box {
   background: rgba(0, 0, 0, 0.2);
-  margin-top: 40vh;
-  display: inline-block;
   padding: 2em;
   border-radius: 1em;
+  margin-top: 15%;
 }
 
 div p {
